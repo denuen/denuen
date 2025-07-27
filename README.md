@@ -7,12 +7,12 @@
 
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,dart,mysql" />
   </a>
 </p>
 
 <p align="center">
-  <strong>LANGUAGES:</strong> C | C++ | Python | JavaScript | TypeScript | Dart | SQL
+  <strong>LANGUAGES:</strong> C | C++ | Python | HTML | CSS | JavaScript | TypeScript | Dart | SQL
 </p>
 
 <p align="center">	
